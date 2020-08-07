@@ -1,4 +1,4 @@
 # Web3API Branding
 ## Logo
-![](./logo/Web3API_On_Black_BG.png)  
+![](./logo/Web3API_On_Black_BG.jpg)  
 
