@@ -1,7 +1,7 @@
 # Web3API Branding
 
 ## Logo
-![polywrap](./polywrap_ID_Originals/ 1-original_black_bg/polywrap_ID_Original_Black-01.png)  
+![polywrap](./polywrap_ID_Originals/1-original_black_bg/polywrap_ID_Original_Black.jpg)  
 
 > Check out the [brand official book](./Polywrap_Brandbook_public_2021.pdf) for in-depth detail of how to use the `polywrap` brand effectively.
 
