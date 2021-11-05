@@ -1,5 +1,8 @@
 # Polywrap Branding
 
+## Themed Banner
+![polywrap-banner](https://user-images.githubusercontent.com/12145726/140437007-d2b8c969-df29-4a43-906a-d5400b4394ac.png)
+
 ## Logo
 ![polywrap](./polywrap_ID_Originals/1-original_black_bg/polywrap_ID_Original_Black.jpg)  
 
@@ -25,6 +28,7 @@ We should be using **multi-platform** to describe Polywrappers, instead of cross
 > Generally, you do cross-platform development when you use a tool that allows you to write code once and build it for many platforms. While multi-platform means your code runs on many platforms.  
 
 Source: https://luismts.com/maui-cross-platform-vs-multi-platform/  
+
 
 
 ## Social Media handles
