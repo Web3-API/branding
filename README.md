@@ -30,7 +30,23 @@ We should be using **multi-platform** to describe Polywrappers, instead of cross
 Source: https://luismts.com/maui-cross-platform-vs-multi-platform/  
 
 
-
 ## Social Media handles
 
 When possible, just use @polywrap. If the name is taken, use @polywrap_io.
+
+
+## Designing  Wrapper
+
+Follow these guides to create wrapper assets that follow the polywrap brand across all channels: 
+
+### Anatomy of a Wrapper
+![image](https://user-images.githubusercontent.com/12145726/163670308-6754a25d-1de0-4d62-b579-dc8719424cd7.png)
+
+### 3D wrappers with Gradients and shading
+![image](https://user-images.githubusercontent.com/12145726/163670277-0ba6bc97-d77e-4b9c-9b18-2f779b6ef4f6.png)
+
+
+
+
+
+
