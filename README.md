@@ -46,6 +46,14 @@ Follow these guides to create wrapper assets that follow the polywrap brand acro
 ![image](https://user-images.githubusercontent.com/12145726/163670277-0ba6bc97-d77e-4b9c-9b18-2f779b6ef4f6.png)
 
 
+# Polywrap Origin Logos
+![origin green inverse](https://user-images.githubusercontent.com/12145726/177427547-cdcbb0cb-a6cf-4853-9f37-8e0359598fd4.svg)
+![origin green](https://user-images.githubusercontent.com/12145726/177427548-cab61755-4630-49db-a63b-da299a9de1a7.svg)
+![origin orange inv](https://user-images.githubusercontent.com/12145726/177427551-53d65573-98b5-488a-932b-7fe27762668d.svg)
+![origin orange](https://user-images.githubusercontent.com/12145726/177427553-ef3a910c-2bd1-4180-b55e-74973e15b4b5.svg)
+![OriginQuantum](https://user-images.githubusercontent.com/12145726/177427555-ca30c47e-869f-4547-a9b8-ed2ce4d1eb30.svg)
+![OriginQuantumStars](https://user-images.githubusercontent.com/12145726/177427557-30a3f292-730b-452a-900a-af9971681e41.svg)
+
 
 
 
